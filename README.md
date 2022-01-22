@@ -13,7 +13,7 @@ This project is from Zero to Mastery: Jacascript Web Projects: 20 Projects to Bu
 
 ## Getting started
 
-[click] () here to get started and see the app online! 
+[click] (https://u241c.github.io/Light-DarkMode/) here to get started and see the app online! 
 
 ## Future Enhancements
 
